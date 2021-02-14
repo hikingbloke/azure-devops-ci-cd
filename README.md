@@ -6,7 +6,7 @@ In this project, We will build a Github repository from scratch and create a sca
 We will perform continuous delivery for a Python-based machine learning application using the Flask web framework.
 
 - Agile Project Management build CI CD Pipeline
-![screenshot - Agile Project Management build CI CD Pipeline](./output_images/building-a-ci-cd-pipeline?raw=true)
+![screenshot - Agile Project Management build CI CD Pipeline](./output_images/building-a-ci-cd-pipeline.png?raw=true)
 
 ### Dependencies
 1. Create an [Azure Account](https://portal.azure.com) 
