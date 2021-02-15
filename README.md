@@ -29,7 +29,7 @@ Your webapp has a pre-trained, sklearn model that has been trained to predict ho
 
     - Useful AZ Cloud Shell commands: https://github.com/hikingbloke/azure-devops-ci-cd/blob/master/webapp-deployment-steps.txt
     
-    - Youtube video for my demo: https://www.youtube.com/watch?v=Qh13C2ihS34
+    - Youtube video for my demo: https://www.youtube.com/watch?v=ASDTJZNnQ8s
 
 ### Output
 
