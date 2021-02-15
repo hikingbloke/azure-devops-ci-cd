@@ -36,7 +36,8 @@ Your webapp has a pre-trained, sklearn model that has been trained to predict ho
     ![screenshot - Flask Web App deployed](./output_images/10.my-youtube-screencast.png?raw=true)
 
 ### Improvements
-
+- More python tests can be written in a project to help making Continuous Integration reliable.
+- Learn more about locust to confidently do load testing.
 
 ### Output
 
@@ -52,7 +53,11 @@ https://trello.com/b/Cl7mDYb4/demo
 - Continuous Integration: Python tests passing and using MAKE file
 ![screenshot - Continuous Integration: Python tests passing and using MAKE file](./output_images/2.passing-test-after-using-make-all.png?raw=true)
 
-- Continuous Integration: Github Actions https://github.com/hikingbloke/azure-devops-ci-cd/workflows/Python%20application%20test%20with%20Github%20Actions/badge.svg
+- Github Action Badge
+![screenshot - Github Action Badge](./output_images/ 11.github-action-badge.png?raw=true)
+https://github.com/hikingbloke/azure-devops-ci-cd/workflows/Python%20application%20test%20with%20Github%20Actions/badge.svg
+
+- Continuous Integration: Github Actions
 ![screenshot - Continuous Integration: Github Actions](./output_images/3.github-actions-continuous-integration.png?raw=true)
 
 - Flask Web App deployed
@@ -74,4 +79,5 @@ https://trello.com/b/Cl7mDYb4/demo
 ![screenshot - Detailed Logs for Flask App](./output_images/9.logs-for-running-application.png?raw=true)
 
 - Load test an application using Locust.
-![screenshot - Load test an application using Locust](./output_images/11.locust-output.png.png?raw=true)
+Locust documentation - https://docs.locust.io/en/stable/quickstart.html  
+![screenshot - Load test an application using Locust](./output_images/11.locust-output.png?raw=true)
