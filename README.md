@@ -1,4 +1,4 @@
-# Building Continuous Delivery Azure Pipeline.
+# Building Continuous with Delivery Azure Pipeline.
 
 ### Introduction
 In this project, We will build a Github repository from scratch and create a scaffolding that will assist you in performing Continuous Delivery. You'll integrate this project with Azure Pipelines to enable Continuous Delivery to Azure App Service.
