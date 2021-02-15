@@ -70,7 +70,7 @@ https://github.com/hikingbloke/azure-devops-ci-cd/workflows/Python%20application
 - Azure Pipeline deployment and status
 ![screenshot - Azure Pipeline deployment and status](./output_images/6.azure-pipeline-deployment-and-status.png?raw=true)
 
-- Predcitions json output
+- Predictions json output
 ![screenshot - Predcitions json output](./output_images/7.prediction-json-output.png?raw=true)
 
 - Logs for Flask App
