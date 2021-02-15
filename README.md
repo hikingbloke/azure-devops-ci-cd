@@ -54,7 +54,7 @@ https://trello.com/b/Cl7mDYb4/demo
 ![screenshot - Continuous Integration: Python tests passing and using MAKE file](./output_images/2.passing-test-after-using-make-all.png?raw=true)
 
 - Github Action Badge
-![screenshot - Github Action Badge](./output_images/ 11.github-action-badge.png?raw=true)
+![screenshot - Github Action Badge](./output_images/11.github-action-badge.png?raw=true)
 https://github.com/hikingbloke/azure-devops-ci-cd/workflows/Python%20application%20test%20with%20Github%20Actions/badge.svg
 
 - Continuous Integration: Github Actions
@@ -78,6 +78,6 @@ https://github.com/hikingbloke/azure-devops-ci-cd/workflows/Python%20application
 - Detailed Logs for Flask App
 ![screenshot - Detailed Logs for Flask App](./output_images/9.logs-for-running-application.png?raw=true)
 
-- Load test an application using Locust.
+- Load test an application using Locust.  
 Locust documentation - https://docs.locust.io/en/stable/quickstart.html  
 ![screenshot - Load test an application using Locust](./output_images/11.locust-output.png?raw=true)
