@@ -38,6 +38,7 @@ Your webapp has a pre-trained, sklearn model that has been trained to predict ho
 ### Improvements
 - More python tests can be written in a project to help making Continuous Integration reliable.
 - Learn more about locust to confidently do load testing.
+- Improve on efficiently using Trello.
 
 ### Output
 
