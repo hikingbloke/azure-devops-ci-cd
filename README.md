@@ -27,7 +27,9 @@ Your webapp has a pre-trained, sklearn model that has been trained to predict ho
         - Azure Pipeline - Setting up
             https://docs.microsoft.com/en-us/azure/devops/pipelines/get-started/pipelines-sign-up?view=azure-devops
 
-    - Youtube video for my demo:
+    - Useful AZ Cloud Shell commands: https://github.com/hikingbloke/azure-devops-ci-cd/blob/master/webapp-deployment-steps.txt
+    
+    - Youtube video for my demo: https://www.youtube.com/watch?v=Qh13C2ihS34
 
 ### Output
 
